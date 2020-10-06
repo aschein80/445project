@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Gupshup.iml" filepath="$PROJECT_DIR$/../Gupshup.iml" group="Gupshup" />
+      <module fileurl="file://$PROJECT_DIR$/app.iml" filepath="$PROJECT_DIR$/app.iml" group="Gupshup/app" />
+    </modules>
+  </component>
+</project>
